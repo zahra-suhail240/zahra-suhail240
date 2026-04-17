@@ -1,6 +1,6 @@
 ## Hello World, I'm Zahra 👋
 
-Computer Engineering @ UofT  
+Computer Engineering student @ UofT  
 
 interested in what happens *below the abstraction layer*  
 
